@@ -1,9 +1,9 @@
 <resources>
 
-    <color name="button_text_color">#ff009688</color>
-    <color name="button_text_color_disabled">#80009688</color>
+    <color name="button_text_color">@*android:color/accent_device_default_light</color>
+    <color name="button_text_color_disabled">#804285f4</color>
     <color name="title_text_color">@android:color/white</color>
-    <color name="title_text_bg">#ff263238</color>
+    <color name="title_text_bg">@*android:color/primary_device_default_dark</color>
     <color name="logo_none">#fffafafa</color>
     <color name="logo_disabled">#ff9E9E9E</color>
     <color name="logo_err">#F44336</color>
